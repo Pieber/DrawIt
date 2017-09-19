@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_25" class="java.beans.XMLDecoder">
+ <object class="Rectangle" id="Rectangle0">
+  <void class="Figure" method="getField">
+   <string>c</string>
+   <void method="set">
+    <object idref="Rectangle0"/>
+    <object class="java.awt.Color">
+     <int>100</int>
+     <int>0</int>
+     <int>0</int>
+     <int>255</int>
+    </object>
+   </void>
+  </void>
+  <void property="largeur">
+   <int>161</int>
+  </void>
+  <void property="longueur">
+   <int>318</int>
+  </void>
+ </object>
+</java>
